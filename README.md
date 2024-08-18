@@ -1,39 +1,52 @@
 # GT06PRO - Privacy Policy
 
-Welcome to GT06PRO, the best command facilitator for trackers. This document outlines our Privacy Policy and how we handle user data.
+Welcome to GT06PRO, the ultimate command facilitator for trackers. This Privacy Policy outlines how we handle user data and ensures compliance with Google Play’s User Data policy.
 
 ## 1. Introduction
 
-GT06PRO is designed to provide an easy and quick interface to control your trackers, such as the GT06, TK100 models, and others. We respect your privacy and ensure that your data is secure.
+GT06PRO is developed by SaveSIM Technologies. Our app is designed to provide a seamless interface for controlling trackers, such as the GT06 and TK100 models. We are committed to protecting your privacy and ensuring that all data remains secure.
 
 ## 2. Data Collection
 
-GT06PRO **does not collect** sensitive or personal user data. All information entered into the app, such as vehicle details and commands, is stored exclusively on the device where the app is installed.
+GT06PRO **does not access, collect, or share** any personal or sensitive user data. All information, including vehicle details and commands, is stored locally on the device where the app is installed. No data is transmitted outside of your device.
 
 ## 3. Data Storage
 
-All data registered in GT06PRO, including settings and commands, is stored locally on your device. This data **is not shared** with third parties, nor is it transmitted to any external server.
+All data input into GT06PRO is stored locally on your device. This means that your data is never shared with third parties or uploaded to external servers. You maintain complete control over your data.
 
 ## 4. Data Sharing
 
-GT06PRO **does not share** any information with third parties. All interaction with the tracker is done directly through the device, with no intermediaries or data transmission outside your device.
+GT06PRO **does not share** any personal or sensitive user data with third parties. The app operates entirely on your device, with no intermediaries or external data transfers involved.
 
-## 5. Security
+## 5. Data Security
 
-The data stored in the app is kept securely on your device. We recommend that you protect your device with security methods such as passwords or biometrics to ensure the safety of the data stored in the app.
+We prioritize the security of your data. Although GT06PRO does not collect or transmit data, we recommend that you secure your device with a password or biometric authentication to protect the information stored within the app.
 
-## 6. Contact
+## 6. Data Retention and Deletion
 
-If you have any questions about this Privacy Policy or about GT06PRO, please contact us:
+As GT06PRO does not collect or store data externally, all data remains on your device until you choose to delete it. Deleting the app will remove all stored data permanently.
 
-**SaveSIM Technologies Team**  
+## 7. Contact Information
+
+If you have any questions about this Privacy Policy or any concerns regarding your privacy while using GT06PRO, please contact us:
+
+**SaveSIM Technologies**  
 Email: [savesimbr@gmail.com](mailto:savesimbr@gmail.com)
 
-## 7. Changes to this Privacy Policy
+## 8. Changes to this Privacy Policy
 
-This Privacy Policy may be updated from time to time. We recommend that you review this page periodically to stay informed about how we protect your data.
+This Privacy Policy may be updated periodically to ensure continued compliance with legal requirements and to reflect any changes in our app's operations. We encourage you to review this page regularly.
+
+## 9. Compliance with Google Play Requirements
+
+- This Privacy Policy is available on an active, publicly accessible URL and is non-editable.
+- It is referenced on our app’s store listing page on the Google Play Store and within the app itself.
+- The Privacy Policy includes a clear label as a privacy policy and provides a point of contact for privacy-related inquiries.
+- This document is accessible in standard web browsers without the need for additional plugins or handlers.
 
 ---
 
 **GT06PRO - Command Facilitator for Trackers**  
 PRO Version - 100% of functionalities available, ad-free, and exclusive support.
+
+App Store Link: [GT06PRO on Google Play](https://play.google.com/store/apps/details?id=com.ionicframework.gt06333532PRO)
