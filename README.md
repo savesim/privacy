@@ -37,13 +37,6 @@ Email: [savesimbr@gmail.com](mailto:savesimbr@gmail.com)
 
 This Privacy Policy may be updated periodically to ensure continued compliance with legal requirements and to reflect any changes in our app's operations. We encourage you to review this page regularly.
 
-## 9. Compliance with Google Play Requirements
-
-- This Privacy Policy is available on an active, publicly accessible URL and is non-editable.
-- It is referenced on our app’s store listing page on the Google Play Store and within the app itself.
-- The Privacy Policy includes a clear label as a privacy policy and provides a point of contact for privacy-related inquiries.
-- This document is accessible in standard web browsers without the need for additional plugins or handlers.
-
 ---
 
 **GT06PRO - Command Facilitator for Trackers**  
